@@ -16,8 +16,8 @@ development:
   encoding: unicode
   database: test_development
   pool: 5
-  username: admin
-  password: 5treetLegal20
+  username: user1
+  password: user1
   timeout: 5000
 
 
@@ -35,6 +35,6 @@ production:
   encoding: unicode
   database: test_production
   pool: 5
-  username: admin
-  password: 5treetLegal20
+  username: user1
+  password: user1
   timeout: 5000
